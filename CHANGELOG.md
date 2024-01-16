@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0
+
+Removed
+- R1NS3-SkipSleep-1.0.5
+
+Added
+- Azumatt-SleepSkip-1.0.7
+
 ## 1.0.0
 
 ### Dependencies
