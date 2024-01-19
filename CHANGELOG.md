@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1
+
+Added
+
+- Searica-AdvancedTerrainModifiers-1.2.6
+
 ## 1.1.0
 
 Removed

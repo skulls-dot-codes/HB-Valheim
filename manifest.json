@@ -1,6 +1,6 @@
 {
   "name": "HootBrigade",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/skulls-dot-codes/HB-Valheim",
   "description": "Modpack for Valheim",
   "dependencies": [
@@ -10,6 +10,7 @@
       "Advize-PlantEasily-1.7.2",
       "Advize-Spyglass-3.1.0",
       "Marlthon-OdinShip-0.4.1",
-      "Azumatt-SleepSkip-1.0.7"
+      "Azumatt-SleepSkip-1.0.7",
+      "Searica-AdvancedTerrainModifiers-1.2.6"
   ]
 }
