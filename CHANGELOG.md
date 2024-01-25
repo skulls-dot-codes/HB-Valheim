@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.2
+
+Updated
+
+- Azumatt-SleepSkip-1.0.8
+
 ## 1.1.1
 
 Added
