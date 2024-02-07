@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.2.0
+
+Added
+
+- Tequila-Dvergr_Pieces-2.6.1
+- Azumatt-ResourceUnloadOptimizer-1.0.3
+- Azumatt-MouseTweaks-1.0.1
+- Azumatt-AAA_Crafting-1.3.4
+- Azumatt-RemoveAttackFreezeFrame-1.0.1
+- MSchmoecker-MultiUserChest-0.5.6
+- Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.5
+
+Downgraded
+
+- Azumatt-SleepSkip-1.0.7
+
 ## 1.1.2
 
 Updated
