@@ -1,6 +1,6 @@
 {
   "name": "HootBrigade",
-  "version_number": "1.2.1",
+  "version_number": "1.2.2",
   "website_url": "https://github.com/skulls-dot-codes/HB-Valheim",
   "description": "Modpack for Valheim",
   "dependencies": [
@@ -16,7 +16,6 @@
       "Azumatt-ResourceUnloadOptimizer-1.0.3",
       "Azumatt-MouseTweaks-1.0.1",
       "Azumatt-RemoveAttackFreezeFrame-1.0.1",
-      "MSchmoecker-MultiUserChest-0.5.6",
-      "GsiX-MultiCraft-1.6.0"
+      "MSchmoecker-MultiUserChest-0.5.6"
   ]
 }

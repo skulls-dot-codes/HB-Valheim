@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.2
+
+Removed
+
+- GsiX-MultiCraft-1.6.0
+
 ## 1.2.1
 
 Removed
