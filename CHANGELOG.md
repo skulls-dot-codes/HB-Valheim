@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.2.3
+
+Added
+
+- Azumatt-AzuCraftyBoxes-1.2.9
+- Azumatt-AAA_Crafting-1.3.4
+- ComfyMods-PotteryBarn-1.12.0
+- ComfyMods-SearsCatalog-1.4.0
+
+Removed
+
+- Tequila-Dvergr_Pieces-2.6.1
+
 ## 1.2.2
 
 Removed
