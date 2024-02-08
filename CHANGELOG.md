@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.1
+
+Removed
+
+- Azumatt-AAA_Crafting-1.3.4
+- Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.5
+
+Added
+
+- GsiX-MultiCraft-1.6.0
+
 ## 1.2.0
 
 Added
