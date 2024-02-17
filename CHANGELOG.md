@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.4
+
+Updated
+
+- Azumatt-SleepSkip-1.1.0
+- MSchmoecker-MultiUserChest-0.5.7
+
 ## 1.2.3
 
 Added
