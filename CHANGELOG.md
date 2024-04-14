@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.5
+
+Updated
+
+- Advize-PlantEverything-1.16.4
+- Advize-PlantEasily-1.7.3
+- Marlthon-OdinShip-0.4.2
+- MSchmoecker-MultiUserChest-0.5.10
+- Azumatt-AAA_Crafting-1.4.0
+
 ## 1.2.4
 
 Updated
