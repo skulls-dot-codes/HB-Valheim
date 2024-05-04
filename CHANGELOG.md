@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.6
+
+Updated
+
+- Advize-PlantEverything-1.16.5
+- ComfyMods-PotteryBarn-1.13.0
+
 ## 1.2.5
 
 Updated
