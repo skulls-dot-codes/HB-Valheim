@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.3.0 - Ashlands
+
+Updated
+
+- Grantapher-ValheimPlus_Grantapher_Temporary-9.13.0
+- Marlthon-OdinShip-0.4.3
+- Advize-PlantEasily-1.8.0
+- Advize-PlantEverything-1.17.1
+- Azumatt-AzuCraftyBoxes-1.3.0
+
+
+
 ## 1.2.6
 
 Updated
